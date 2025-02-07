@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "docker-compose: up",
+            "type": "shell",
+            "command": "docker-compose up --build",
+            "problemMatcher": []
+        },
+        {
+            "label": "docker-compose: up new",
+            "type": "shell",
+            "command": "docker-compose -f docker-compose.yml up --build",
+            "problemMatcher": []
+        }
+    ]
+}

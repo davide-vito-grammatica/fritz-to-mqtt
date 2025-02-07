@@ -9,4 +9,9 @@ services:
       - ./app.log:/app/app.log
     env_file:
       - .env
+    command: >
+      sh -c "pip install debugpy &&
+             python -m debugpy --wait-for-client --listen 0.0.0.0:5678 /app/src/main.py"
+    ports:
+      - "5678:5678"
     restart: always

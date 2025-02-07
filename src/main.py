@@ -50,7 +50,12 @@ def check_sid_validity(sid):
     response = requests.post(test_url, data=test_data)
     
     # Se il SID è ancora valido, la risposta sarà corretta
-    return "forgotPassword" not in response.text
+    try:
+        response_json = response.json()
+        sid = response_json.get("sid", "")
+        return isinstance(sid, str) and len(sid) == 16 and sid.isalnum()
+    except json.JSONDecodeError:
+        return False
 
 def login_fritzbox():
     login_url = f"{FRITZBOX_URL}/login_sid.lua"
