@@ -83,6 +83,10 @@ Check the Docker container logs to ensure the application is running correctly:
 docker logs fritzbox_parser
 ```
 
+
+### Debugging with Docker Compose
+To debug the application using Docker Compose, you can use the following configurations in your `.vscode/launch.json` file:
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
