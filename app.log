@@ -24797,3 +24797,718 @@
     "timestamp": "2025-02-07 18:47:06"
 }
 2025-02-07 18:47:06,266 INFO:Dati WiFi inviati a Home Assistant via MQTT
+2025-02-07 18:47:19,452 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:19"
+}
+2025-02-07 18:47:19,566 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:47:19"
+}
+2025-02-07 18:47:19,677 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimusGuests",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:19"
+}
+2025-02-07 18:47:24,684 ERROR:Errore nella richiesta dati: timed out
+2025-02-07 18:47:37,738 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:37"
+}
+2025-02-07 18:47:37,847 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:47:37"
+}
+2025-02-07 18:47:37,955 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimusGuests",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:37"
+}
+2025-02-07 18:47:38,065 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimusGuests",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:47:38"
+}
+2025-02-07 18:47:38,173 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "B0:F2:08:C4:76:D2",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:38"
+}
+2025-02-07 18:47:38,283 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/6/Villa DellâOrco: {
+    "network": {
+        "mac": "EE:00:B0:22:AB:44",
+        "nrssi": 2,
+        "channel": 6,
+        "isEnvNet": true,
+        "ssid": "Villa Dell\u00e2\u0080\u0099Orco",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:38"
+}
+2025-02-07 18:47:38,400 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:ED:89:B4",
+        "nrssi": 5,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:38"
+}
+2025-02-07 18:47:38,510 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/10/TP-LINK_AP_ABCA: {
+    "network": {
+        "mac": "AC:15:A2:B4:AB:CA",
+        "nrssi": 1,
+        "channel": 10,
+        "isEnvNet": true,
+        "ssid": "TP-LINK_AP_ABCA",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:38"
+}
+2025-02-07 18:47:43,515 ERROR:Errore nella richiesta dati: timed out
+2025-02-07 18:47:57,301 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:57"
+}
+2025-02-07 18:47:57,409 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:47:57"
+}
+2025-02-07 18:47:57,588 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimusGuests",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:57"
+}
+2025-02-07 18:47:57,696 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimusGuests",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:47:57"
+}
+2025-02-07 18:47:57,804 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "B0:F2:08:C4:76:D2",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:57"
+}
+2025-02-07 18:47:57,913 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/6/Villa DellâOrco: {
+    "network": {
+        "mac": "EE:00:B0:22:AB:44",
+        "nrssi": 2,
+        "channel": 6,
+        "isEnvNet": true,
+        "ssid": "Villa Dell\u00e2\u0080\u0099Orco",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:57"
+}
+2025-02-07 18:47:58,028 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:ED:89:B4",
+        "nrssi": 5,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:58"
+}
+2025-02-07 18:47:58,138 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/10/TP-LINK_AP_ABCA: {
+    "network": {
+        "mac": "AC:15:A2:B4:AB:CA",
+        "nrssi": 1,
+        "channel": 10,
+        "isEnvNet": true,
+        "ssid": "TP-LINK_AP_ABCA",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:58"
+}
+2025-02-07 18:47:58,248 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:0D:FC:EB",
+        "nrssi": 2,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:58"
+}
+2025-02-07 18:47:58,357 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/Star Volley: {
+    "network": {
+        "mac": "68:FF:7B:85:B7:60",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "Star Volley",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:58"
+}
+2025-02-07 18:47:58,476 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/1/sonoff-DVES-3-5776: {
+    "network": {
+        "mac": "5E:CF:7F:E7:B6:90",
+        "nrssi": 1,
+        "channel": 1,
+        "isEnvNet": true,
+        "ssid": "sonoff-DVES-3-5776",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:58"
+}
+2025-02-07 18:47:58,586 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/10/ANTONGO: {
+    "network": {
+        "mac": "04:D3:B5:A2:C6:92",
+        "nrssi": 1,
+        "channel": 10,
+        "isEnvNet": true,
+        "ssid": "ANTONGO",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:47:58"
+}
+2025-02-07 18:48:03,593 ERROR:Errore nella richiesta dati: timed out
+2025-02-07 18:48:16,813 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:16"
+}
+2025-02-07 18:48:16,921 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:16"
+}
+2025-02-07 18:48:17,029 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimusGuests",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,137 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimusGuests",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,246 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "B0:F2:08:C4:76:D2",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,355 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/6/Villa DellâOrco: {
+    "network": {
+        "mac": "EE:00:B0:22:AB:44",
+        "nrssi": 2,
+        "channel": 6,
+        "isEnvNet": true,
+        "ssid": "Villa Dell\u00e2\u0080\u0099Orco",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,464 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:ED:89:B4",
+        "nrssi": 5,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,572 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/10/TP-LINK_AP_ABCA: {
+    "network": {
+        "mac": "AC:15:A2:B4:AB:CA",
+        "nrssi": 1,
+        "channel": 10,
+        "isEnvNet": true,
+        "ssid": "TP-LINK_AP_ABCA",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,680 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:0D:FC:EB",
+        "nrssi": 2,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,789 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/Star Volley: {
+    "network": {
+        "mac": "68:FF:7B:85:B7:60",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "Star Volley",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:17,897 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/1/sonoff-DVES-3-5776: {
+    "network": {
+        "mac": "5E:CF:7F:E7:B6:90",
+        "nrssi": 1,
+        "channel": 1,
+        "isEnvNet": true,
+        "ssid": "sonoff-DVES-3-5776",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:17"
+}
+2025-02-07 18:48:18,007 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/10/ANTONGO: {
+    "network": {
+        "mac": "04:D3:B5:A2:C6:92",
+        "nrssi": 1,
+        "channel": 10,
+        "isEnvNet": true,
+        "ssid": "ANTONGO",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:18"
+}
+2025-02-07 18:48:18,116 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/108/FASTWEB-22Y3ND: {
+    "network": {
+        "mac": "58:76:AC:44:CC:F7",
+        "nrssi": 0,
+        "channel": 108,
+        "isEnvNet": true,
+        "ssid": "FASTWEB-22Y3ND",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:18"
+}
+2025-02-07 18:48:18,226 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/100/ProXimusGuests: {
+    "network": {
+        "mac": "62:B5:8D:A0:5D:D8",
+        "nrssi": 1,
+        "channel": 100,
+        "isEnvNet": true,
+        "ssid": "ProXimusGuests",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:18"
+}
+2025-02-07 18:48:18,338 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/100/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "60:B5:8D:A0:5D:D8",
+        "nrssi": 1,
+        "channel": 100,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:18"
+}
+2025-02-07 18:48:18,344 INFO:Dati WiFi inviati a Home Assistant via MQTT
+2025-02-07 18:48:31,979 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:31"
+}
+2025-02-07 18:48:32,088 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:32"
+}
+2025-02-07 18:48:32,197 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimusGuests",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:32"
+}
+2025-02-07 18:48:32,305 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimusGuests",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:32"
+}
+2025-02-07 18:48:32,414 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "B0:F2:08:C4:76:D2",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:32"
+}
+2025-02-07 18:48:32,522 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/6/Villa DellâOrco: {
+    "network": {
+        "mac": "EE:00:B0:22:AB:44",
+        "nrssi": 2,
+        "channel": 6,
+        "isEnvNet": true,
+        "ssid": "Villa Dell\u00e2\u0080\u0099Orco",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:32"
+}
+2025-02-07 18:48:32,634 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:ED:89:B4",
+        "nrssi": 5,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:32"
+}
+2025-02-07 18:48:37,639 ERROR:Errore nella richiesta dati: timed out
+2025-02-07 18:48:51,472 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:51"
+}
+2025-02-07 18:48:51,580 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:51"
+}
+2025-02-07 18:48:51,691 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimusGuests",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:51"
+}
+2025-02-07 18:48:51,799 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimusGuests",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:48:51"
+}
+2025-02-07 18:48:51,908 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "B0:F2:08:C4:76:D2",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:51"
+}
+2025-02-07 18:48:52,017 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/6/Villa DellâOrco: {
+    "network": {
+        "mac": "EE:00:B0:22:AB:44",
+        "nrssi": 2,
+        "channel": 6,
+        "isEnvNet": true,
+        "ssid": "Villa Dell\u00e2\u0080\u0099Orco",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:48:52"
+}
+2025-02-07 18:48:57,024 ERROR:Errore nella richiesta dati: timed out
+2025-02-07 18:49:10,148 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:10"
+}
+2025-02-07 18:49:15,155 ERROR:Errore nella richiesta dati: timed out
+2025-02-07 18:49:28,617 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:28"
+}
+2025-02-07 18:49:28,727 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:49:28"
+}
+2025-02-07 18:49:28,836 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimusGuests",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:28"
+}
+2025-02-07 18:49:28,944 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimusGuests: {
+    "network": {
+        "mac": "0E:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimusGuests",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:49:28"
+}
+2025-02-07 18:49:29,052 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "B0:F2:08:C4:76:D2",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,166 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/6/Villa DellâOrco: {
+    "network": {
+        "mac": "EE:00:B0:22:AB:44",
+        "nrssi": 2,
+        "channel": 6,
+        "isEnvNet": true,
+        "ssid": "Villa Dell\u00e2\u0080\u0099Orco",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,279 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:ED:89:B4",
+        "nrssi": 5,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,395 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/10/TP-LINK_AP_ABCA: {
+    "network": {
+        "mac": "AC:15:A2:B4:AB:CA",
+        "nrssi": 1,
+        "channel": 10,
+        "isEnvNet": true,
+        "ssid": "TP-LINK_AP_ABCA",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,507 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "34:31:C4:0D:FC:EB",
+        "nrssi": 2,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,615 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/3/Star Volley: {
+    "network": {
+        "mac": "68:FF:7B:85:B7:60",
+        "nrssi": 4,
+        "channel": 3,
+        "isEnvNet": true,
+        "ssid": "Star Volley",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,724 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/1/sonoff-DVES-3-5776: {
+    "network": {
+        "mac": "5E:CF:7F:E7:B6:90",
+        "nrssi": 1,
+        "channel": 1,
+        "isEnvNet": true,
+        "ssid": "sonoff-DVES-3-5776",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,831 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/10/ANTONGO: {
+    "network": {
+        "mac": "04:D3:B5:A2:C6:92",
+        "nrssi": 1,
+        "channel": 10,
+        "isEnvNet": true,
+        "ssid": "ANTONGO",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:29,939 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/108/FASTWEB-22Y3ND: {
+    "network": {
+        "mac": "58:76:AC:44:CC:F7",
+        "nrssi": 0,
+        "channel": 108,
+        "isEnvNet": true,
+        "ssid": "FASTWEB-22Y3ND",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:49:29"
+}
+2025-02-07 18:49:34,945 ERROR:Errore nella richiesta dati: timed out
+2025-02-07 18:49:48,572 INFO:Pubblicato su home/fritzbox/wifi/scanlist/24ghz/11/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B8",
+        "nrssi": 5,
+        "channel": "11",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "24ghz"
+    },
+    "timestamp": "2025-02-07 18:49:48"
+}
+2025-02-07 18:49:48,680 INFO:Pubblicato su home/fritzbox/wifi/scanlist/5ghz/44/ProXimus-2.4GHz: {
+    "network": {
+        "mac": "0C:72:74:FF:13:B7",
+        "nrssi": 5,
+        "channel": "44",
+        "ssid": "ProXimus-2.4GHz",
+        "bandId": "5ghz"
+    },
+    "timestamp": "2025-02-07 18:49:48"
+}
