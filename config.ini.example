@@ -1,0 +1,12 @@
+[DEFAULT]
+FRITZBOX_URL = http://192.168.1.1
+USERNAME = username_fritz
+PASSWORD = password_fritz
+SID_FILE = sid.json
+LOG_FILE = app.log
+LOOP_TIMEOUT = 30
+MQTT_BROKER = 127.0.0.1
+MQTT_PORT = 1883
+MQTT_USERNAME = username_mqtt
+MQTT_PASSWORD = password_mqtt
+MQTT_BASE_TOPIC = home/fritzbox/wifi/scanlist/

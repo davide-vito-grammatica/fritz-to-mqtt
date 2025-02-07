@@ -1,0 +1,12 @@
+name: fritz
+services:
+  fritzbox-parser:
+    build:
+      context: .
+    container_name: fritzbox_parser
+    volumes:
+      - .:/app
+      - ./app.log:/app/app.log
+    env_file:
+      - .env
+    restart: always
